@@ -17,6 +17,10 @@ As a result, PaaS frees developers from having to install in-house hardware and 
 
 Without forgetting Google, Microsoft, Azure & cie.
 
+## 🍺 WTF is Paastis ?!
+
+[Paastis.dev](paastis.dev) is a digital platform that helps teams to manage their PaaS applications.
+
 ## ❤️ The promises of Paastis
 
 - convenient

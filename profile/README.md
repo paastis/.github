@@ -29,7 +29,6 @@ Without forgetting Google, Microsoft, Azure & cie.
 
 ## 🏛 Architecture
 
-- `paastis-registry`: a (in-memory or Redis-based) registry of running app
-- `paastis-proxy`: an HTTP proxy that monitors PaaS applications activity and start&stop them according to their activity
-- `paastis-db`: a database to store users and business data
-- `paastis-console`: a Web client dashboard to manage the platform
+- `paastis-engine`: HTTP proxy + registry of running apps (in-memory or Redis-based) + idle apps scheduler (CRON) + system API server (native Node.js HTTP server)
+- `paastis-website`: official documentation website (Docusaurus 2.0)
+- `paastis-console` (private): SaaS webapp for managed cloud-hosting

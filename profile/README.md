@@ -1,4 +1,4 @@
-# Paastis – Enhance your PaaS experience!
+# Paastis – Optimize your PaaS experience!
 
 ## ☁️ WTF is PaaS ?!
 
